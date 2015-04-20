@@ -1,0 +1,7 @@
+doc/*
+*.save
+makefile
+
+/vendor/
+/dev-resources/
+/document/

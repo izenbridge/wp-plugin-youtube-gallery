@@ -1,0 +1,17 @@
+{
+    "name": "commandocoding/i-code-well-link-manager",
+    "description": "The Advanced Youtube render page plugin by iCodeWell",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.5",
+        "phpunit/phpunit-selenium": "~1.4"
+    },
+    "authors": [
+        {
+            "name": "commandocoding",
+            "email": "commando@commandocoding.com"
+        }
+    ]
+}
+

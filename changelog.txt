@@ -1,0 +1,4 @@
+27 Feb 2015
+(1) The settings are moved to database to avoide issues with right permissions, 
+(as most servers are shared hosts and people have varible amount of permissions over them)
+
